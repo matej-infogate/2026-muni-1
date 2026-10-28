@@ -1,0 +1,12 @@
+/data/raw/
+/data/private/
+/data/reports/
+/dist/
+/dist-app/
+*.csv
+*.pyc
+__pycache__/
+.env
+.env.*
+*.local
+*:Zone.Identifier

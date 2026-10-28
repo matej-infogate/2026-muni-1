@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; object-src 'none'; base-uri 'none'">
+  <meta name="description" content="Evidence povinných školení a návrhy termínů z dodaných exportů.">
+  <title>Evidence školení</title>
+  <link rel="stylesheet" href="./style.css">
+  <script type="module" src="./app.mjs"></script>
+</head>
+<body>
+  <a class="skip" href="#main">Přejít na obsah</a>
+  <div class="shell">
+    <aside class="sidebar">
+      <a class="brand" href="#prehled"><span class="brandmark">M</span><span>školení<span class="brand-sub">Evidence školení</span></span></a>
+
+      <nav aria-label="Obsah"><a href="#employees">Zaměstnanci</a><a href="#allocations">Návrhy termínů</a><a href="#session-list">Vypsané termíny</a><a href="#data-quality">Datové výjimky</a></nav>
+      <div class="sidebar-bottom">Export dat<br><strong>1. 10. 2026</strong></div>
+    </aside>
+    <div class="workspace">
+      <header class="topbar"><span>ŠKOLENÍ / PŘEHLED</span><span>Evidence a plánování</span></header>
+      <main id="main" tabindex="-1">
+        <section id="prehled" class="view">
+          <div class="page-heading"><div><h1>Přehled školení</h1><p class="muted">Povinnosti zaměstnanců, končící platnost a dostupné termíny.</p></div><label class="date-control">Rozhodné datum<input type="date" id="asOf" value="2026-10-01" required></label></div>
+          <p id="date-note" class="caption">Výchozí datum: 1. 10. 2026. Personální údaje odpovídají exportu. Jiné datum je výpočet nad tímto snímkem, nikoli ověřený historický stav.</p>
+          <p id="error" role="alert"></p>
+          <div id="metrics" class="metrics"></div>
+          <div id="employees" class="section-heading"><h2>Zaměstnanci</h2><span id="result-count" class="caption" role="status"></span></div>
+          <div class="toolbar"><label>Vyhledat osobu<input id="search" type="search" placeholder="Jméno nebo ID zaměstnance"></label><label>Oddělení<select id="department"><option value="">Všechna oddělení</option></select></label><label>Pracovní poměr<select id="employment"><option value="aktivní">Aktivní</option><option value="rodičovská">Rodičovská</option><option value="ukončen">Ukončené</option><option value="">Všechny</option></select></label><label>Stav školení<select id="status"><option value="">Všechny stavy</option><option value="missing">Chybí</option><option value="expired">Propadlé</option><option value="soon">Končí do 30 dnů</option><option value="later">Končí do 90 dnů</option><option value="valid">Platné</option><option value="unknown">K ověření</option></select></label></div>
+          <div class="table-wrap"><table><caption class="sr-only">Přehled zaměstnanců a povinných školení</caption><thead><tr><th scope="col">Zaměstnanec</th><th scope="col">Pracovní poměr</th><th scope="col">Povinnosti</th><th scope="col">Nejbližší expirace</th><th scope="col">Detail</th></tr></thead><tbody id="requirements"></tbody></table><p id="empty" class="empty" role="status" hidden>Pro tento filtr nejsou žádné výsledky.</p></div>
+          <section id="allocations" class="panel"><div class="section-heading"><h2>Návrhy termínů</h2><span class="caption">Návrh není přihláška ani rezervace místa.</span></div><p class="caption">Aktivní zaměstnanci; chybějící a propadlá školení mají přednost. Obsazená místa považujeme za již rezervovaná mimo dodaný seznam.</p><label class="course-filter">Školení<select id="proposal-course"><option value="">Všechna školení</option></select></label><p id="proposal-count" class="caption" role="status"></p><div class="table-wrap"><table><thead><tr><th>Zaměstnanec</th><th>Školení</th><th>Termín</th><th>Výsledek</th></tr></thead><tbody id="proposals"></tbody></table></div></section>
+          <section id="session-list" class="panel"><h2>Vypsané termíny</h2><div class="table-wrap"><table><thead><tr><th>ID / školení</th><th>Datum a čas</th><th>Místo</th><th>Obsazeno / kapacita</th><th>Volná místa</th><th>Stav</th></tr></thead><tbody id="sessions"></tbody></table></div></section>
+          <section id="data-quality" class="panel"><h2>Datové výjimky</h2><p class="caption">Sporné záznamy nevydáváme za ověřené splnění. Bezpečné normalizace jsou dohledatelné podle ID.</p><div id="quality"></div></section>
+        </section>
+      </main>
+      <footer>Export 1. 10. 2026 · Doporučení nemění zdrojová data ani nepotvrzuje přihlášení.</footer>
+    </div>
+  </div>
+  <dialog id="detail" aria-labelledby="detail-title"><button id="close-detail" class="close" aria-label="Zavřít detail">×</button><h2 id="detail-title"></h2><div id="detail-content"></div></dialog>
+  <noscript>Pro vyhodnocení školení povolte JavaScript.</noscript>
+</body>
+</html>

@@ -1,0 +1,189 @@
+[
+  {
+    "type": "after_export",
+    "count": 5,
+    "recordIds": [
+      "Z002836",
+      "Z002837",
+      "Z002838",
+      "Z002839",
+      "Z002840"
+    ]
+  },
+  {
+    "type": "course_normalized",
+    "count": 27,
+    "recordIds": [
+      "Z000008",
+      "Z000102",
+      "Z000224",
+      "Z000338",
+      "Z000510",
+      "Z000518",
+      "Z000607",
+      "Z000708",
+      "Z000806",
+      "Z000808",
+      "Z000936",
+      "Z001210",
+      "Z001275",
+      "Z001321",
+      "Z001330",
+      "Z001377",
+      "Z001481",
+      "Z001507",
+      "Z001533",
+      "Z001991",
+      "Z002093",
+      "Z002209",
+      "Z002247",
+      "Z002521",
+      "Z002555",
+      "Z002645",
+      "Z002792"
+    ]
+  },
+  {
+    "type": "department_missing",
+    "count": 5,
+    "recordIds": [
+      "E0007",
+      "E0011",
+      "E0017",
+      "E0116",
+      "E0141"
+    ]
+  },
+  {
+    "type": "department_normalized",
+    "count": 10,
+    "recordIds": [
+      "E0003",
+      "E0025",
+      "E0095",
+      "E0103",
+      "E0106",
+      "E0132",
+      "E0134",
+      "E0137",
+      "E0158",
+      "E0159"
+    ]
+  },
+  {
+    "type": "duplicate_session",
+    "count": 1,
+    "recordIds": [
+      "T009"
+    ]
+  },
+  {
+    "type": "exact_duplicate",
+    "count": 7,
+    "recordIds": [
+      "Z000411",
+      "Z000911",
+      "Z002278",
+      "Z002334",
+      "Z002336",
+      "Z002459",
+      "Z002686"
+    ]
+  },
+  {
+    "type": "expiry_before_completion",
+    "count": 8,
+    "recordIds": [
+      "Z000643",
+      "Z000713",
+      "Z001183",
+      "Z001405",
+      "Z001443",
+      "Z001761",
+      "Z001870",
+      "Z002778"
+    ]
+  },
+  {
+    "type": "invalid_capacity",
+    "count": 2,
+    "recordIds": [
+      "T016",
+      "T030"
+    ]
+  },
+  {
+    "type": "invalid_session_date",
+    "count": 1,
+    "recordIds": [
+      "T014"
+    ]
+  },
+  {
+    "type": "non_record_row",
+    "count": 3,
+    "recordIds": [
+      "history"
+    ]
+  },
+  {
+    "type": "possible_identity_duplicate",
+    "count": 4,
+    "recordIds": [
+      "E0124",
+      "E0155",
+      "E1000",
+      "E1002"
+    ]
+  },
+  {
+    "type": "record_conflict",
+    "count": 8,
+    "recordIds": [
+      "Z000052",
+      "Z000453",
+      "Z000502",
+      "Z001004",
+      "Z001080",
+      "Z001946",
+      "Z002017",
+      "Z002512"
+    ]
+  },
+  {
+    "type": "suspect_date",
+    "count": 2,
+    "recordIds": [
+      "Z000001",
+      "Z000002"
+    ]
+  },
+  {
+    "type": "unknown_course",
+    "count": 7,
+    "recordIds": [
+      "T010",
+      "Z001903",
+      "Z002280",
+      "Z002424",
+      "Z002674",
+      "Z002675",
+      "Z002753"
+    ]
+  },
+  {
+    "type": "unknown_employee",
+    "count": 9,
+    "recordIds": [
+      "Z001402",
+      "Z001552",
+      "Z001695",
+      "Z001953",
+      "Z001954",
+      "Z001994",
+      "Z002109",
+      "Z002124",
+      "Z002590"
+    ]
+  }
+]

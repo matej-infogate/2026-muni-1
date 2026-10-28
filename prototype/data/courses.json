@@ -1,0 +1,72 @@
+[
+  {
+    "code": "ANGL",
+    "title": "Anglický jazyk – kurz",
+    "validityMonths": null,
+    "applicability": "NEPOVINNE",
+    "isMandatory": false
+  },
+  {
+    "code": "BOZP-Z",
+    "title": "BOZP – základní školení",
+    "validityMonths": 24,
+    "applicability": "VSICHNI",
+    "isMandatory": true
+  },
+  {
+    "code": "GDPR",
+    "title": "Ochrana osobních údajů",
+    "validityMonths": 36,
+    "applicability": "VSICHNI",
+    "isMandatory": true
+  },
+  {
+    "code": "KYBER",
+    "title": "Kybernetická bezpečnost",
+    "validityMonths": 12,
+    "applicability": "VSICHNI",
+    "isMandatory": true
+  },
+  {
+    "code": "LAB-BEZ",
+    "title": "Bezpečná práce v laboratoři",
+    "validityMonths": 24,
+    "applicability": "UTVAR:Laboratoře",
+    "isMandatory": true
+  },
+  {
+    "code": "LEAD",
+    "title": "Základy vedení lidí",
+    "validityMonths": 0,
+    "applicability": "POZICE:Vedoucí",
+    "isMandatory": true
+  },
+  {
+    "code": "POZ-OCH",
+    "title": "Požární ochrana",
+    "validityMonths": 24,
+    "applicability": "VSICHNI",
+    "isMandatory": true
+  },
+  {
+    "code": "PRV-POM",
+    "title": "První pomoc",
+    "validityMonths": 36,
+    "applicability": "UTVAR:Laboratoře;Správa budov;Knihovna",
+    "isMandatory": true
+  },
+  {
+    "code": "RIDIC",
+    "title": "Řidiči referenti",
+    "validityMonths": 12,
+    "applicability": "POZICE:Řidič",
+    "isMandatory": true
+  },
+  {
+    "code": "ZDVIH",
+    "title": "Obsluha zdvihacích zařízení",
+    "validityMonths": 24,
+    "applicability": "POZICE:Technik údržby",
+    "isMandatory": true
+  }
+]

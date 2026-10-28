@@ -1,0 +1,1220 @@
+[
+  {
+    "id": "E0001",
+    "displayName": "Tereza Urbanová",
+    "department": "Studijní oddělení",
+    "position": "Vedoucí",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0002",
+    "displayName": "Tereza Jandová",
+    "department": "Studijní oddělení",
+    "position": "Specialista",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0003",
+    "displayName": "Anna Fialová",
+    "department": "Studijní oddělení",
+    "position": "Specialista",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0004",
+    "displayName": "Monika Hrušková",
+    "department": "Studijní oddělení",
+    "position": "Specialista",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0005",
+    "displayName": "Iveta Konečná",
+    "department": "Studijní oddělení",
+    "position": "Asistent",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0006",
+    "displayName": "Klára Blažková",
+    "department": "Studijní oddělení",
+    "position": "Referent",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0007",
+    "displayName": "Libor Tomášek",
+    "department": "",
+    "position": "Asistent",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0008",
+    "displayName": "Kateřina Kopecká",
+    "department": "Studijní oddělení",
+    "position": "Asistent",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0009",
+    "displayName": "Pavla Hájková",
+    "department": "Studijní oddělení",
+    "position": "Asistent",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0010",
+    "displayName": "Daniel Štěpánek",
+    "department": "Studijní oddělení",
+    "position": "Referent",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0011",
+    "displayName": "Lucie Němcová",
+    "department": "",
+    "position": "Specialista",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0012",
+    "displayName": "Michal Zdražil",
+    "department": "Studijní oddělení",
+    "position": "Referent",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0013",
+    "displayName": "Marie Černá",
+    "department": "Studijní oddělení",
+    "position": "Referent",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0014",
+    "displayName": "Renata Zemanová",
+    "department": "Studijní oddělení",
+    "position": "Specialista",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0015",
+    "displayName": "Jana Novotná",
+    "department": "Studijní oddělení",
+    "position": "Specialista",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0016",
+    "displayName": "Lukáš Bartoš",
+    "department": "Studijní oddělení",
+    "position": "Specialista",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0017",
+    "displayName": "Alena Čermáková",
+    "department": "",
+    "position": "Specialista",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0018",
+    "displayName": "Marek Vacek",
+    "department": "Studijní oddělení",
+    "position": "Asistent",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0019",
+    "displayName": "Monika Vlčková",
+    "department": "Studijní oddělení",
+    "position": "Asistent",
+    "status": "ukončen"
+  },
+  {
+    "id": "E0020",
+    "displayName": "LUCIE Pospíšilová",
+    "department": "Studijní oddělení",
+    "position": "Asistent",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0021",
+    "displayName": "Milan Šimek",
+    "department": "Studijní oddělení",
+    "position": "Specialista",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0022",
+    "displayName": "Ondřej Novák",
+    "department": "Studijní oddělení",
+    "position": "Asistent",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0023",
+    "displayName": "Jan Svoboda",
+    "department": "Studijní oddělení",
+    "position": "Specialista",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0024",
+    "displayName": "Adam Blažek",
+    "department": "Studijní oddělení",
+    "position": "Referent",
+    "status": "ukončen"
+  },
+  {
+    "id": "E0025",
+    "displayName": "Martin Soukup",
+    "department": "Studijní oddělení",
+    "position": "Asistent",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0026",
+    "displayName": "Alena Veselá",
+    "department": "Ekonomické oddělení",
+    "position": "Vedoucí",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0027",
+    "displayName": "Tereza Dušková",
+    "department": "Ekonomické oddělení",
+    "position": "Referent",
+    "status": "rodičovská"
+  },
+  {
+    "id": "E0028",
+    "displayName": "Štěpán Horák",
+    "department": "Ekonomické oddělení",
+    "position": "Účetní",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0029",
+    "displayName": "Vojtěch Bartoš",
+    "department": "Ekonomické oddělení",
+    "position": "Specialista",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0030",
+    "displayName": "Štěpán Král",
+    "department": "Ekonomické oddělení",
+    "position": "Specialista",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0031",
+    "displayName": "Barbora Marková",
+    "department": "Ekonomické oddělení",
+    "position": "Specialista",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0032",
+    "displayName": "Romana Procházková",
+    "department": "Ekonomické oddělení",
+    "position": "Účetní",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0033",
+    "displayName": "Daniel Beneš",
+    "department": "Ekonomické oddělení",
+    "position": "Účetní",
+    "status": "ukončen"
+  },
+  {
+    "id": "E0034",
+    "displayName": "Pavel Veselý",
+    "department": "Ekonomické oddělení",
+    "position": "Účetní",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0035",
+    "displayName": "Jaroslav Jelínek",
+    "department": "Ekonomické oddělení",
+    "position": "Účetní",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0036",
+    "displayName": "Zuzana Šimková",
+    "department": "Ekonomické oddělení",
+    "position": "Účetní",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0037",
+    "displayName": "Iveta Kadlecová",
+    "department": "Ekonomické oddělení",
+    "position": "Referent",
+    "status": "ukončen"
+  },
+  {
+    "id": "E0038",
+    "displayName": "Renata Hájková",
+    "department": "Ekonomické oddělení",
+    "position": "Účetní",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0039",
+    "displayName": "Radek Prokop",
+    "department": "Ekonomické oddělení",
+    "position": "Účetní",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0040",
+    "displayName": "Iveta Zemanová",
+    "department": "Ekonomické oddělení",
+    "position": "Účetní",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0041",
+    "displayName": "Adam Havel",
+    "department": "Ekonomické oddělení",
+    "position": "Specialista",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0042",
+    "displayName": "Jaroslav Zdražil",
+    "department": "Ekonomické oddělení",
+    "position": "Účetní",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0043",
+    "displayName": "Radka Šebestová",
+    "department": "Ekonomické oddělení",
+    "position": "Účetní",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0044",
+    "displayName": "David Navrátil",
+    "department": "IT oddělení",
+    "position": "Vedoucí",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0045",
+    "displayName": "Štěpán Bednář",
+    "department": "IT oddělení",
+    "position": "Vývojář",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0046",
+    "displayName": "Dagmar Sládková",
+    "department": "IT oddělení",
+    "position": "Vývojář",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0047",
+    "displayName": "Eva Čermáková",
+    "department": "IT oddělení",
+    "position": "Specialista",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0048",
+    "displayName": "Blanka Vacková",
+    "department": "IT oddělení",
+    "position": "Technik",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0049",
+    "displayName": "Iveta Sedláčková",
+    "department": "IT oddělení",
+    "position": "Technik",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0050",
+    "displayName": "Luboš Novotný",
+    "department": "IT oddělení",
+    "position": "Technik",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0051",
+    "displayName": "Blanka Čermáková",
+    "department": "IT oddělení",
+    "position": "Technik",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0052",
+    "displayName": "Tereza Sládková",
+    "department": "IT oddělení",
+    "position": "Vývojář",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0053",
+    "displayName": "Martina Procházková",
+    "department": "IT oddělení",
+    "position": "Technik",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0054",
+    "displayName": "Adam Malý",
+    "department": "IT oddělení",
+    "position": "Technik",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0055",
+    "displayName": "Kateřina Pokorná",
+    "department": "IT oddělení",
+    "position": "Vývojář",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0056",
+    "displayName": "Markéta Hrušková",
+    "department": "IT oddělení",
+    "position": "Technik",
+    "status": "rodičovská"
+  },
+  {
+    "id": "E0057",
+    "displayName": "Monika Šebestová",
+    "department": "IT oddělení",
+    "position": "Technik",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0058",
+    "displayName": "Radek Beneš",
+    "department": "IT oddělení",
+    "position": "Specialista",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0059",
+    "displayName": "Jana Urbanová",
+    "department": "IT oddělení",
+    "position": "Technik",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0060",
+    "displayName": "Daniel Černý",
+    "department": "IT oddělení",
+    "position": "Technik",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0061",
+    "displayName": "Zdeněk Sládek",
+    "department": "IT oddělení",
+    "position": "Technik",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0062",
+    "displayName": "Hana Malá",
+    "department": "IT oddělení",
+    "position": "Technik",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0063",
+    "displayName": "Klára Nováková",
+    "department": "IT oddělení",
+    "position": "Technik",
+    "status": "ukončen"
+  },
+  {
+    "id": "E0064",
+    "displayName": "Klára Šimková",
+    "department": "IT oddělení",
+    "position": "Technik",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0065",
+    "displayName": "HANA Šebestová",
+    "department": "IT oddělení",
+    "position": "Technik",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0066",
+    "displayName": "Lucie Kovářová",
+    "department": "Knihovna",
+    "position": "Vedoucí",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0067",
+    "displayName": "Kateřina Poláková",
+    "department": "Knihovna",
+    "position": "Referent",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0068",
+    "displayName": "Tomáš Marek",
+    "department": "Knihovna",
+    "position": "Knihovník",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0069",
+    "displayName": "Veronika Jelínková",
+    "department": "Knihovna",
+    "position": "Knihovník",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0070",
+    "displayName": "Petr Hruška",
+    "department": "Knihovna",
+    "position": "Knihovník",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0071",
+    "displayName": "Marie Havlíková",
+    "department": "Knihovna",
+    "position": "Referent",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0072",
+    "displayName": "Aleš Hájek",
+    "department": "Knihovna",
+    "position": "Knihovník",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0073",
+    "displayName": "Markéta Šimková",
+    "department": "Knihovna",
+    "position": "Knihovník",
+    "status": "ukončen"
+  },
+  {
+    "id": "E0074",
+    "displayName": "Markéta Štěpánková",
+    "department": "Knihovna",
+    "position": "Referent",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0075",
+    "displayName": "Tomáš Jelínek",
+    "department": "Knihovna",
+    "position": "Knihovník",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0076",
+    "displayName": "David Šimek",
+    "department": "Knihovna",
+    "position": "Knihovník",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0077",
+    "displayName": "Martina Holubová",
+    "department": "Knihovna",
+    "position": "Referent",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0078",
+    "displayName": "Štěpán Kadlec",
+    "department": "Knihovna",
+    "position": "Knihovník",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0079",
+    "displayName": "MARTINA Dušková",
+    "department": "Knihovna",
+    "position": "Knihovník",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0080",
+    "displayName": "Renata Jelínková",
+    "department": "Knihovna",
+    "position": "Knihovník",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0081",
+    "displayName": "Štěpán Čermák",
+    "department": "Knihovna",
+    "position": "Knihovník",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0082",
+    "displayName": "Luboš Pospíšil",
+    "department": "Knihovna",
+    "position": "Referent",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0083",
+    "displayName": "Milan Novotný",
+    "department": "Knihovna",
+    "position": "Knihovník",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0084",
+    "displayName": "Milan Pospíšil",
+    "department": "Knihovna",
+    "position": "Knihovník",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0085",
+    "displayName": "Josef Jelínek",
+    "department": "Knihovna",
+    "position": "Knihovník",
+    "status": "ukončen"
+  },
+  {
+    "id": "E0086",
+    "displayName": "Vladimír Mareš",
+    "department": "Správa budov",
+    "position": "Vedoucí",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0087",
+    "displayName": "ZUZANA Havlová",
+    "department": "Správa budov",
+    "position": "Vedoucí",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0088",
+    "displayName": "Adéla Matoušková",
+    "department": "Správa budov",
+    "position": "Vedoucí",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0089",
+    "displayName": "Libor Svoboda",
+    "department": "Správa budov",
+    "position": "Technik údržby",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0090",
+    "displayName": "Lenka Benešová",
+    "department": "Správa budov",
+    "position": "Referent",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0091",
+    "displayName": "Jana Matoušková",
+    "department": "Správa budov",
+    "position": "Technik údržby",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0092",
+    "displayName": "Martin Pospíšil",
+    "department": "Správa budov",
+    "position": "Technik údržby",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0093",
+    "displayName": "Anna Kopecká",
+    "department": "Správa budov",
+    "position": "Technik údržby",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0094",
+    "displayName": "Vladimír Pospíšil",
+    "department": "Správa budov",
+    "position": "Technik údržby",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0095",
+    "displayName": "Michal Veselý",
+    "department": "Správa budov",
+    "position": "Technik údržby",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0096",
+    "displayName": "Daniel Novák",
+    "department": "Správa budov",
+    "position": "Technik údržby",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0097",
+    "displayName": "Barbora Procházková",
+    "department": "Správa budov",
+    "position": "Řidič",
+    "status": "rodičovská"
+  },
+  {
+    "id": "E0098",
+    "displayName": "Roman Dvořák",
+    "department": "Správa budov",
+    "position": "Řidič",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0099",
+    "displayName": "Vojtěch Bednář",
+    "department": "Správa budov",
+    "position": "Referent",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0100",
+    "displayName": "Pavel Šebesta",
+    "department": "Správa budov",
+    "position": "Technik údržby",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0101",
+    "displayName": "Štěpán Hájek",
+    "department": "Správa budov",
+    "position": "Řidič",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0102",
+    "displayName": "Michal Sedláček",
+    "department": "Správa budov",
+    "position": "Technik údržby",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0103",
+    "displayName": "Lenka Prokopová",
+    "department": "Správa budov",
+    "position": "Technik údržby",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0104",
+    "displayName": "Petra Bednářová",
+    "department": "Správa budov",
+    "position": "Řidič",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0105",
+    "displayName": "Michal růžička",
+    "department": "Správa budov",
+    "position": "Referent",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0106",
+    "displayName": "Renata Bednářová",
+    "department": "Správa budov",
+    "position": "Řidič",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0107",
+    "displayName": "Vladimír Stejskal",
+    "department": "Správa budov",
+    "position": "Technik údržby",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0108",
+    "displayName": "Jan Zdražil",
+    "department": "Správa budov",
+    "position": "Technik údržby",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0109",
+    "displayName": "Milan Šebesta",
+    "department": "Správa budov",
+    "position": "Řidič",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0110",
+    "displayName": "Tomáš Dušek",
+    "department": "Správa budov",
+    "position": "Řidič",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0111",
+    "displayName": "Hana Sládková",
+    "department": "Správa budov",
+    "position": "Technik údržby",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0112",
+    "displayName": "Ivana Pokorná",
+    "department": "Správa budov",
+    "position": "Technik údržby",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0113",
+    "displayName": "Michaela Štěpánková",
+    "department": "Správa budov",
+    "position": "Řidič",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0114",
+    "displayName": "Daniel Procházka",
+    "department": "Správa budov",
+    "position": "Technik údržby",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0115",
+    "displayName": "Marie Havlová",
+    "department": "Správa budov",
+    "position": "Technik údržby",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0116",
+    "displayName": "Simona Pokorná",
+    "department": "",
+    "position": "Vedoucí",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0117",
+    "displayName": "Zuzana Dvořáková",
+    "department": "Laboratoře",
+    "position": "Vedoucí",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0118",
+    "displayName": "Pavel Konečný",
+    "department": "Laboratoře",
+    "position": "Vedoucí",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0119",
+    "displayName": "Lukáš Navrátil",
+    "department": "Laboratoře",
+    "position": "Laborant",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0120",
+    "displayName": "Klára Holubová",
+    "department": "Laboratoře",
+    "position": "Laborant",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0121",
+    "displayName": "Lucie Fialová",
+    "department": "Laboratoře",
+    "position": "Technik",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0122",
+    "displayName": "Marie Zemanová",
+    "department": "Laboratoře",
+    "position": "Laborant",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0123",
+    "displayName": "David Vaněk",
+    "department": "Laboratoře",
+    "position": "Laborant",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0124",
+    "displayName": "Petra Havlíková",
+    "department": "Laboratoře",
+    "position": "Laborant",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0125",
+    "displayName": "Martin Holub",
+    "department": "Laboratoře",
+    "position": "Laborant",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0126",
+    "displayName": "Roman Růžička",
+    "department": "Laboratoře",
+    "position": "Laborant",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0127",
+    "displayName": "Libor Jelínek",
+    "department": "Laboratoře",
+    "position": "Laborant",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0128",
+    "displayName": "Veronika Vacková",
+    "department": "Laboratoře",
+    "position": "Laborant",
+    "status": "ukončen"
+  },
+  {
+    "id": "E0129",
+    "displayName": "Marek Havel",
+    "department": "Laboratoře",
+    "position": "Laborant",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0130",
+    "displayName": "Josef Hájek",
+    "department": "Laboratoře",
+    "position": "Laborant",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0131",
+    "displayName": "Hana Vacková",
+    "department": "Laboratoře",
+    "position": "Laborant",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0132",
+    "displayName": "Jitka Hájková",
+    "department": "Laboratoře",
+    "position": "Laborant",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0133",
+    "displayName": "Karel Pokorný",
+    "department": "Laboratoře",
+    "position": "Technik",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0134",
+    "displayName": "Eva Vlčková",
+    "department": "Laboratoře",
+    "position": "Laborant",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0135",
+    "displayName": "Martin Jelínek",
+    "department": "Laboratoře",
+    "position": "Technik",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0136",
+    "displayName": "Jiří Čermák",
+    "department": "Laboratoře",
+    "position": "Laborant",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0137",
+    "displayName": "Adéla Jandová",
+    "department": "Laboratoře",
+    "position": "Laborant",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0138",
+    "displayName": "Romana Stejskalová",
+    "department": "Laboratoře",
+    "position": "Laborant",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0139",
+    "displayName": "Aleš Řezníček",
+    "department": "Laboratoře",
+    "position": "Laborant",
+    "status": "ukončen"
+  },
+  {
+    "id": "E0140",
+    "displayName": "Pavel Pokorný",
+    "department": "Laboratoře",
+    "position": "Laborant",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0141",
+    "displayName": "Kateřina Marešová",
+    "department": "",
+    "position": "Laborant",
+    "status": "rodičovská"
+  },
+  {
+    "id": "E0142",
+    "displayName": "JANA černá",
+    "department": "Laboratoře",
+    "position": "Technik",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0143",
+    "displayName": "Tereza Prokopová",
+    "department": "Laboratoře",
+    "position": "Laborant",
+    "status": "ukončen"
+  },
+  {
+    "id": "E0144",
+    "displayName": "Jaroslav Malý",
+    "department": "Laboratoře",
+    "position": "Laborant",
+    "status": "ukončen"
+  },
+  {
+    "id": "E0145",
+    "displayName": "Luboš Zeman",
+    "department": "Laboratoře",
+    "position": "Laborant",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0146",
+    "displayName": "Blanka Burešová",
+    "department": "Laboratoře",
+    "position": "Laborant",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0147",
+    "displayName": "Libor Horák",
+    "department": "Laboratoře",
+    "position": "Laborant",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0148",
+    "displayName": "Petra Hájková",
+    "department": "Laboratoře",
+    "position": "Laborant",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0149",
+    "displayName": "Miroslav Navrátil",
+    "department": "Laboratoře",
+    "position": "Laborant",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0150",
+    "displayName": "Jiří Šimek",
+    "department": "Laboratoře",
+    "position": "Technik",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0151",
+    "displayName": "Roman Veselý",
+    "department": "Personální oddělení",
+    "position": "Vedoucí",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0152",
+    "displayName": "Roman Mareš",
+    "department": "Personální oddělení",
+    "position": "Specialista",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0153",
+    "displayName": "Alena Malá",
+    "department": "Personální oddělení",
+    "position": "Specialista",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0154",
+    "displayName": "Lukáš Polák",
+    "department": "Personální oddělení",
+    "position": "Referent",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0155",
+    "displayName": "Adam Novotný",
+    "department": "Personální oddělení",
+    "position": "Referent",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0156",
+    "displayName": "Radka Bartošová",
+    "department": "Personální oddělení",
+    "position": "Referent",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0157",
+    "displayName": "Dagmar Pospíšilová",
+    "department": "Personální oddělení",
+    "position": "Referent",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0158",
+    "displayName": "Miroslav Urban",
+    "department": "Personální oddělení",
+    "position": "Specialista",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0159",
+    "displayName": "Jitka Šimková",
+    "department": "Vedení",
+    "position": "Vedoucí",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0160",
+    "displayName": "Lenka Řezníčková",
+    "department": "Vedení",
+    "position": "Specialista",
+    "status": "ukončen"
+  },
+  {
+    "id": "E0161",
+    "displayName": "Barbora Králová",
+    "department": "Vedení",
+    "position": "Specialista",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0162",
+    "displayName": "ALEŠ navrátil",
+    "department": "Vedení",
+    "position": "Specialista",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0163",
+    "displayName": "Jitka Machová",
+    "department": "Vedení",
+    "position": "Specialista",
+    "status": "rodičovská"
+  },
+  {
+    "id": "E0164",
+    "displayName": "Veronika Bednářová",
+    "department": "Vedení",
+    "position": "Asistent",
+    "status": "rodičovská"
+  },
+  {
+    "id": "E0165",
+    "displayName": "Barbora Holubová",
+    "department": "Marketing",
+    "position": "Vedoucí",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0166",
+    "displayName": "Michaela Stejskalová",
+    "department": "Marketing",
+    "position": "Referent",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0167",
+    "displayName": "Simona Vaňková",
+    "department": "Marketing",
+    "position": "Specialista",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0168",
+    "displayName": "Monika Kolářová",
+    "department": "Marketing",
+    "position": "Referent",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0169",
+    "displayName": "Veronika Soukupová",
+    "department": "Marketing",
+    "position": "Referent",
+    "status": "aktivní"
+  },
+  {
+    "id": "E0170",
+    "displayName": "Milan Kolář",
+    "department": "Marketing",
+    "position": "Referent",
+    "status": "aktivní"
+  },
+  {
+    "id": "E1000",
+    "displayName": "Adam Novotny",
+    "department": "Personální oddělení",
+    "position": "Referent",
+    "status": "aktivní"
+  },
+  {
+    "id": "E1001",
+    "displayName": "Jaroslav Zdražiy",
+    "department": "Ekonomické oddělení",
+    "position": "Účetní",
+    "status": "aktivní"
+  },
+  {
+    "id": "E1002",
+    "displayName": "Petra Havlikova",
+    "department": "Laboratoře",
+    "position": "Laborant",
+    "status": "aktivní"
+  },
+  {
+    "id": "E1003",
+    "displayName": "Petr Hrušky",
+    "department": "Knihovna",
+    "position": "Knihovník",
+    "status": "aktivní"
+  }
+]
